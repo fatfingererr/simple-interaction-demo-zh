@@ -1,0 +1,24 @@
+{
+  "name": "contract-interact-demo-zh",
+  "version": "1.0.0",
+  "description": "合約交互的中文範例",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fatfingererr/contract-interact-demo-zh.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fatfingererr/contract-interact-demo-zh/issues"
+  },
+  "homepage": "https://github.com/fatfingererr/contract-interact-demo-zh#readme",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "ethers": "^5.6.4"
+  }
+}
